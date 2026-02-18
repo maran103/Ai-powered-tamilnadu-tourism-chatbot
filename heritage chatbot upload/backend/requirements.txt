@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+pydantic
+pymongo
+bcrypt
+email-validator
+
+certifi
+dnspython
